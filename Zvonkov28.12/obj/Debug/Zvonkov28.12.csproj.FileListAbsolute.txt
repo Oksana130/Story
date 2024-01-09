@@ -1,0 +1,5 @@
+C:\Users\student\Desktop\Zvonkov28.12\Zvonkov28.12\obj\Debug\Zvonkov28.12.csproj.AssemblyReference.cache
+C:\Users\student\Desktop\Zvonkov28.12\Zvonkov28.12\obj\Debug\MainWindow.g.cs
+C:\Users\student\Desktop\Zvonkov28.12\Zvonkov28.12\obj\Debug\App.g.cs
+C:\Users\student\Desktop\Zvonkov28.12\Zvonkov28.12\obj\Debug\Zvonkov28.12_MarkupCompile.cache
+C:\Users\student\Desktop\Zvonkov28.12\Zvonkov28.12\obj\Debug\Zvonkov28.12_MarkupCompile.lref
